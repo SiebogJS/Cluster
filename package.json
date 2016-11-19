@@ -1,0 +1,19 @@
+{
+  "name": "siebogjs-cluster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiebogJS/Cluster.git"
+  },
+  "author": "Aleksandar Lukić",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiebogJS/Cluster/issues"
+  },
+  "homepage": "https://github.com/SiebogJS/Cluster#readme"
+}
