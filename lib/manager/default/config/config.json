@@ -1,0 +1,8 @@
+{
+  "alias": "host1",
+  "master" : "",
+  "heartBeat" : {
+    "interval": 3000,
+    "maxFails": 10
+  }
+}

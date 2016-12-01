@@ -1,0 +1,3 @@
+[submodule "lib/Connection"]
+	path = lib/Connection
+	url = https://github.com/SiebogJS/Connection.git

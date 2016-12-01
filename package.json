@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SiebogJS/Cluster/issues"
   },
-  "homepage": "https://github.com/SiebogJS/Cluster#readme"
+  "homepage": "https://github.com/SiebogJS/Cluster#readme",
+  "dependencies": {
+    "siebogjs-connection" : "file:./lib/Connection"
+  }
 }
